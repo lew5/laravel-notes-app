@@ -25,7 +25,7 @@ Este es un simple gestor de notas construido con Laravel. Permite crear, ver, ed
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/laravel-notes-app.git
+git clone https://github.com/lew5/laravel-notes-app
 ```
 
 2. Instala las dependencias de PHP utilizando Composer:
