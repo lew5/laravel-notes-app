@@ -4,9 +4,11 @@ Este es un simple gestor de notas construido con Laravel. Permite crear, ver, ed
 
 ## Capturas de pantalla
 
-![Notes](screenshots/note.png)
-![Note](screenshots/note1.png)
-![Create](screenshots/create.png)
+<div style="display: flex; justify-content: space-between;">
+    <img src="screenshots/note.png" alt="Notes" style="padding: 10px; border-radius: 5px;">
+    <img src="screenshots/note1.png" alt="Note" style="padding: 10px; border-radius: 5px;">
+    <img src="screenshots/create.png" alt="Create" style="padding: 10px; border-radius: 5px;">
+</div>
 
 ## Características
 
